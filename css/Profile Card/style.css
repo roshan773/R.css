@@ -1,0 +1,22 @@
+.card{
+    height: 200px;
+    width: 200px;
+}
+
+.card img{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 2px dotted blue;
+    border-radius: 50%;
+}
+
+.card h1{
+    font-family: Roboto-ThinItalic;
+    font-size: 30px;
+}
+
+.card p{
+    text-indent: 40px;
+    text-align: justify;
+}
